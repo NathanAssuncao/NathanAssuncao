@@ -19,6 +19,6 @@
 <img aling="center" alt="Typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br>
 
-Estudante de Engenharia de Software, apaixonado por técnologias e futuro desenvolvedor Front-End.
+Estudante de Engenharia de Software, apaixonado por tecnologias e futuro desenvolvedor Front-End.
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
