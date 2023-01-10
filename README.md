@@ -21,4 +21,4 @@
 
 Estudante de Engenharia de Software, apaixonado por técnologias e futuro desenvolvedor Front-End.
 
-![Snake animation](https://github.com/NathanAssuncao/NathanAssuncao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
